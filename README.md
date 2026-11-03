@@ -1,5 +1,5 @@
 # Hi, I'm Sohail 👋
-Software Engineering student at Abdul Wali Khan University, Mardan. I build practical Generative AI apps with Python and Next.js.also did project as a mern stack developer
+Software Engineering student ,building practical Generative AI apps with Python and Next.js, and I’ve built full-stack MERN projects too
 
 ## Projects
 - **[EmergiAI](https://github.com/sohailahmad-techhub/EmergiAI)**: multilingual emergency guidance app. LLM triage, voice input via Groq Whisper, nearby hospitals via Google Maps. [Live](https://emergi-ai-delta.vercel.app)
