@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sohail 👋
+Software Engineering student at Abdul Wali Khan University, Mardan. I build practical Generative AI apps with Python and Next.js.also did project as a mern stack developer
 
-<!--
-**sohailahmad-techhub/sohailahmad-techhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+- **[EmergiAI](https://github.com/sohailahmad-techhub/EmergiAI)**: multilingual emergency guidance app. LLM triage, voice input via Groq Whisper, nearby hospitals via Google Maps. [Live](https://emergi-ai-delta.vercel.app)
+- **[BrandForge AI](https://github.com/sohailahmad-techhub/brandforgeAI)**: hackathon platform helping entrepreneurs in Pakistan launch brands. I was the frontend developer in a team of 4. [Live](https://brandforgeai.vercel.app)
+- **[Animal detection with YOLOv8](https://github.com/sohailahmad-techhub/YOYOv8-animal-detaction-model)**
+- **[MERN e-commerce](https://github.com/sohailahmad-techhub/e-com-full-stack)**: auth, cart, checkout, admin dashboard. [Live](https://e-com-full-stack-pi.vercel.app)
 
-Here are some ideas to get you started:
+## Stack
+Python · FastAPI · JavaScript · TypeScript · Next.js · React · Node.js · MongoDB · MySQL · Git · Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 sohailarman030837@gmail.com · [LinkedIn](https://www.linkedin.com/in/sohail-ahmaddeveloper-2a94b62a6/)
